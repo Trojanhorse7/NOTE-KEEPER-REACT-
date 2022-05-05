@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "prettier.documentSelectors": [
+        "{   \"folders\": [],   \"settings\": {},   \"editor.formatOnSave\": true, }"
+    ]
+}
